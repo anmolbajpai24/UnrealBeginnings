@@ -20,5 +20,11 @@
 
 [Unreal Engine + Chat GPT](https://www.youtube.com/watch?v=IRUnoKp7SoA)
 
+[How to Replace the Mannequin with a Metahuman in Unreal Engine 5](https://www.youtube.com/watch?v=VEhSX04mxOY)
+
+[Scan to Metahuman](https://www.youtube.com/watch?v=xFk_WU32igA&t=3s)
+
+[Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=86s)
+
 
 
